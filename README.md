@@ -17,6 +17,9 @@
 
 ## Blockchains
 - [Aleo](https://github.com/AleoNet/snarkOS).
+- [RustChain](https://github.com/Scottcjn/RustChain).
+  DePIN for Vintage Hardware - AI-Augmented Proof of Real Machines. The blockchain where old hardware outearns new hardware.
+
   Decentralized operating system for zero-knowledge applications.
 - [Aleph Zero](https://github.com/aleph-zero-foundation).
   DAG, PoS, snark smart contracts (substrate based).
