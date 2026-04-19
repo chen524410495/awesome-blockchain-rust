@@ -206,6 +206,7 @@
 - [Narwhal](https://github.com/MystenLabs/narwhal).
   The consensus layer used by Sui.
 
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain that rewards vintage hardware. Old computers earn more than new ones.
 ## P2P Network Libraries
 - [chamomile](https://github.com/placefortea/chamomile).
   P2P library. Support build robust stable connection on
